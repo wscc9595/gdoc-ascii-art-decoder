@@ -15,4 +15,4 @@
 ## Getting Started
 ```bash
 pip install -r requirements.txt
-python main.py <url>
+python main.py [url]
