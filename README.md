@@ -5,6 +5,8 @@
 
 👉 [Live Doc Link](https://docs.google.com/document/d/e/2PACX-1vTg4yGC9sCz1szduFK3_ZHXPlq35e0AMiub-48oo93HRGB29pEehrdv9JBq-1hbypNckt7dCnf2ZvMn/pub)
 
+<img src="sample.png" alt="示例图" width="400">
+
 ## Features
 - fetch table from public Google Doc url
 - Parse table data using `BeautifulSoup`
